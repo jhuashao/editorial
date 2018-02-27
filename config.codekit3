@@ -450,24 +450,6 @@
 		"oAP": "\/README.html",
 		"oF": 0
 		},
-	"\/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/sass\/components\/_badges.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1001,6 +983,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/sass\/styles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles.css",
+		"oF": 2,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scripts-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1028,7 +1023,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 541432480,
-	"displayValue": "reclaiming",
+	"displayValue": "reclaimingAudience",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_teal"
 	},
