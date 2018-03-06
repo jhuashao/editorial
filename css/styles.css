@@ -1,6 +1,24 @@
+@font-face {
+  font-family: druk;
+  src: url(../fonts/druk/drukcondensed.otf); }
+
+.container {
+  width: 90%; }
+
 h1 {
-  color: red; }
+  font-family: druk;
+  color: black;
+  text-transform: uppercase;
+  font-size: 200px;
+  line-height: 155px; }
+
+blockquote {
+  margin: 0px; }
 
 .bodypadding {
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 100px; }
+
+.header {
+  display: flex;
+  justify-content: space-between; }
