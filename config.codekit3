@@ -92,104 +92,6 @@
 		"oAP": "\/fonts\/druk\/Druk Medium.otf",
 		"oF": 0
 		},
-	"\/fonts\/druk\/Druk Super Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Super Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Super.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Super.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Bold Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Bold Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Bold.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Bold.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Heavy Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Heavy Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Heavy.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Heavy.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Medium Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Medium Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Medium.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Medium.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Super Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Super Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk Wide Super.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk Wide Super.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk XCond Super Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk XCond Super Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk XXCond Super Italic.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk XXCond Super Italic.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/Druk XXCond Super.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/Druk XXCond Super.otf",
-		"oF": 0
-		},
-	"\/fonts\/druk\/drukcondensed.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/fonts\/druk\/drukcondensed.otf",
-		"oF": 0
-		},
 	"\/fonts\/roboto\/Roboto-Bold.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -259,24 +161,6 @@
 		"oA": 0,
 		"oAP": "\/fonts\/roboto\/Roboto-Thin.woff2",
 		"oF": 0
-		},
-	"\/images\/giphy.gif": {
-		"ft": 4194304,
-		"iS": 65332,
-		"oA": 0,
-		"oAP": "\/images\/giphy.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/stale.jpeg": {
-		"ft": 16384,
-		"iS": 12752,
-		"oA": 0,
-		"oAP": "\/images\/stale.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/index.html": {
 		"cB": 0,
@@ -1169,29 +1053,6 @@
 		"oA": 0,
 		"oAP": "\/sass\/materialize.css",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/sass\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/sass\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/sass\/styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/styles.css",
-		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
