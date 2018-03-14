@@ -7,6 +7,7 @@
   <!--Import Google Icon Font-->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!--Import materialize.css-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
   <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
   <!--Let browser know website is optimized for mobile-->
   <link type="text/css" rel="stylesheet" href="css/styles.css">
@@ -14,20 +15,25 @@
 </head>
 
 <body>
-  <div class="container bodypadding">
 
-    <div class="header">
-      <div>NiemanLab</div>
-      <div>Predictions for Journalism 2018</div>
+
+  <div class="hero bodypadding">
+    <div class="container">
+      <div class="header">
+        <div>NiemanLab</div>
+        <div>Predictions for Journalism 2018</div>
+      </div>
+      <div class="divider"></div>
+
+      <div class="title">
+        <h1>Reclaiming Audience
+          <br> Interaction from Social Networks
+        </h1>
+      </div>
     </div>
-    <div class="divider"></div>
+  </div>
 
-    <div class="title">
-      <h1>Reclaiming Audience
-        <br> Interaction from Social Networks
-      </h1>
-    </div>
-
+  <div class="bodytext hide container bodypadding">
     <div class="flow-text">
       <div class="row ">
         <div class="col l2 m2 s12 bold">
@@ -97,8 +103,24 @@
           and YouTube. It asserts an unfakeable truth of civic responsibility: If you want something done right, you have
           to do it yourself.
           <br>
-          <br> Ståle Grut is a graduate student in new media and digital culture at the University of Amsterdam and on leave
-          from NRKbeta.
+
+          <a href="https://twitter.com/stalebg?lang=en" target="_blank">
+            <div class="stale card-panel grey lighten-5 z-depth-1 hoverable">
+              <div class="row">
+                <div class="col l2 s3">
+                  <img src="images/stale.jpeg" alt="" class="circle responsive-img">
+                  <!-- notice the "circle" class -->
+                </div>
+                <div class="col l10 s9">
+                  <span class="black-text">
+                    Ståle Grut is a graduate student in new media and digital culture at the University of Amsterdam and on leave from NRKbeta.
+                  </span>
+                </div>
+              </div>
+            </div>
+          </a>
+
+          <br>
         </div>
       </div>
     </div>
@@ -106,9 +128,10 @@
   </div>
 
   <!--Import jQuery before materialize.js-->
-  <script type="text/javascript" src="scripts.js"></script>
+
   <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script type="text/javascript" src="js/bin/materialize.min.js"></script>
+  <script type="text/javascript" src="scripts.js"></script>
 </body>
 
 </html>

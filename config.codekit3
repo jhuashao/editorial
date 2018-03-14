@@ -260,6 +260,24 @@
 		"oAP": "\/fonts\/roboto\/Roboto-Thin.woff2",
 		"oF": 0
 		},
+	"\/images\/giphy.gif": {
+		"ft": 4194304,
+		"iS": 65332,
+		"oA": 0,
+		"oAP": "\/images\/giphy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/stale.jpeg": {
+		"ft": 16384,
+		"iS": 12752,
+		"oA": 0,
+		"oAP": "\/images\/stale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1194,7 +1212,7 @@
 		"oA": 0,
 		"oAP": "\/scripts-min.js",
 		"oF": 0,
-		"sC": 3,
+		"sC": 0,
 		"tS": 0
 		}
 	},

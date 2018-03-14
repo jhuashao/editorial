@@ -16,7 +16,7 @@ h1 {
     line-height: 155px;
 }
 
-blockquote{
+blockquote {
     margin: 0px;
 }
 
@@ -25,19 +25,53 @@ blockquote{
     padding-bottom: 100px;
 }
 
-.header{
+.header {
     display: flex;
     justify-content: space-between;
 }
 
-.bold{
+.bold {
     font-weight: 600;
 }
 
-.medium{
-    font-weight:500;
+.medium {
+    font-weight: 500;
 }
 
-.light{
+.light {
     font-weight: 200;
+}
+
+.hero {
+    background: url(../images/giphy.gif) repeat center center fixed;
+    background-size: 15%;
+    height: 80vh;
+}
+
+.hide {
+    display: none;
+}
+
+.stale {
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+@media only screen and (max-width: 992px) {
+    h1 {
+        font-size: 150px;
+        line-height: 115px;
+    }
+    .hero {
+        background: url(../images/giphy.gif) repeat center center fixed;
+        background-size: 50%;
+        height: 60vh;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    h1 {
+        font-size: 90px;
+        line-height: 70px;
+    }
 }
