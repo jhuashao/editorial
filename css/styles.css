@@ -5,15 +5,39 @@
 .container {
   width: 90%; }
 
+.title {
+  display: flex;
+  flex-wrap: wrap; }
+  .title h1 .space {
+    padding-right: 20px; }
+
 h1 {
   font-family: druk;
   color: black;
   text-transform: uppercase;
   font-size: 200px;
-  line-height: 155px; }
+  line-height: 155px;
+  display: flex;
+  flex-wrap: wrap; }
 
 blockquote {
   margin: 0px; }
+
+a {
+  color: red; }
+
+a:hover {
+  color: red;
+  text-decoration: underline; }
+
+.caption {
+  display: none; }
+
+img:hover + .caption {
+  position: absolute;
+  display: block;
+  font-size: 12pt;
+  color: red; }
 
 .bodypadding {
   padding-top: 50px;
